@@ -1,5 +1,5 @@
 # EF21 with Bells & Whistles: Practical Algorithmic Extensions of Modern Error Feedback
-"This repository contains Python 3 source code for the experimental part of the paper titled *"EF21 with Bells & Whistles: Practical Algorithmic Extensions of Modern Error Feedback"* ([arXiv](https://arxiv.org/abs/2110.03294)).
+This repository contains Python 3 source code for the experimental part of the paper titled *"EF21 with Bells & Whistles: Practical Algorithmic Extensions of Modern Error Feedback"* ([arXiv](https://arxiv.org/abs/2110.03294)).
 
 ### Reference
 In case you find the paper or code useful for your research, please consider citing it in your work.
