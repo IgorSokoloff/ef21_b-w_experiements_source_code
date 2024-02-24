@@ -1,5 +1,5 @@
 # EF21 with Bells & Whistles: Practical Algorithmic Extensions of Modern Error Feedback
-This is a Python 3 implementation of EF21, EF21-PAGE, EF21-HB, EF21-PP, EF21-BC, EF21-SGD algorithms from the [paper](https://arxiv.org/abs/2110.03294).
+"This repository contains Python 3 source code for the experimental part of the paper titled *"EF21 with Bells & Whistles: Practical Algorithmic Extensions of Modern Error Feedback"* ([arXiv](https://arxiv.org/abs/2110.03294)).
 
 ### Reference
 In case you find the paper or code useful for your research, please consider citing it in your work.
