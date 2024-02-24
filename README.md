@@ -2,7 +2,7 @@
 This is a Python 3 implementation of EF21, EF21-PAGE, EF21-HB, EF21-PP, EF21-BC, EF21-SGD algorithms from the [paper](https://arxiv.org/abs/2110.03294).
 
 ### Reference
- In case you find the paper or code useful for your research, please consider citing
+In case you find the paper or code useful for your research, please consider citing it in your work.
 
  ```
 @article{fatkhullin2021ef21,
